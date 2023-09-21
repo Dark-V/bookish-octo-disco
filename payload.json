@@ -2,18 +2,15 @@
   "mods": [
     {
       "name": "Mod 1",  
-      "url": "https://example.com/mod1.zip",
-      "updated": "2023-01-01T12:00:00Z"
+      "url": "https://example.com/mod1.zip"
     },
     {
       "name": "Mod 2",
-      "url": "https://example.com/mod2.zip",
-      "updated": "2023-02-01T14:00:00Z"
+      "url": "https://example.com/mod2.zip"
     },
     {
       "name": "Mod 3", 
-      "url": "https://example.com/mod3.zip",
-      "updated": "2023-03-15T16:00:00Z"
+      "url": "https://example.com/mod3.zip"
     }
   ]
 }
