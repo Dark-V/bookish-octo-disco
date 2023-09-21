@@ -1,16 +1,19 @@
+{
+  "Category 1": [
+    {
+      "Name": "Mod 1",
+      "Url": "https://url1"
+    }, 
+    {
+      "Name": "Mod 2", 
+      "Url": "https://url2"
+    }
+  ],
 
-  [
+  "Category 2": [  
     {
-      "name": "Mod 1",  
-      "url": "https://example.com/mod1.zip"
-    },
-    {
-      "name": "Mod 2",
-      "url": "https://example.com/mod2.zip"
-    },
-    {
-      "name": "Mod 3", 
-      "url": "https://example.com/mod3.zip"
+      "Name": "Mod 3",
+      "Url": "https://url3" 
     }
   ]
-
+}
