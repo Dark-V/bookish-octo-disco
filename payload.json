@@ -13,6 +13,9 @@
     "Animation": [{
             "Name": "RJW Animation Framework",
             "Url": "https://gitgud.io/AbstractConcept/rimworld-animations-patch.git"
+        },{
+            "Name": "RJW Animation Framework Patch",
+            "Url": "https://gitgud.io/c0ffeeeeeeee/rimworld-animations.git"
         }, {
             "Name": "Anim Addons",
             "Url": "https://gitgud.io/Tory/rjwanimaddons-xtraanims.git"
