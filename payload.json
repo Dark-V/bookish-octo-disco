@@ -1,4 +1,15 @@
 {
+    "CORE": [{
+            "Name": "Rimjobworld",
+            "Url": "https://gitgud.io/Ed86/rjw.git"
+        },{
+            "Name": "Harmony",
+            "Url": "https://github.com/pardeike/HarmonyRimWorld.git"
+        },{
+            "Name": "RimworldHugsLib",
+            "Url": "https://github.com/UnlimitedHugs/RimworldHugsLib.git"
+        }
+    ],
     "Animation": [{
             "Name": "RJW Animation Framework",
             "Url": "https://gitgud.io/AbstractConcept/rimworld-animations-patch.git"
