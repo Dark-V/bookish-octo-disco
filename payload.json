@@ -94,7 +94,7 @@
             "Url": "https://github.com/EuclideanClass/FantasyRaces"
         }
     ],
-    "Previously part of RJW": [{
+    "Small addons & Pathces": [{
             "Name": "RJW - CUM",
             "Url": "https://gitgud.io/Ed86/rjw-cum.git"
         }, {
@@ -112,6 +112,9 @@
         }, {
             "Name": "RJW - Interaction Addon",
             "Url": "https://gitgud.io/Ed86/rjw-ia.git"
+        },{
+            "Name": "RJW-Crests",
+            "Url": "https://github.com/EuclideanClass/RJW-Crests.git"
         }, {
             "Name": "RJW - Extension",
             "Url": "https://gitgud.io/Ed86/rjw-ex.git"
