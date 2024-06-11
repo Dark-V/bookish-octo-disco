@@ -1,27 +1,27 @@
 {
     "CORE": [{
             "Name": "Rimjobworld",
-            "Url": "https://gitgud.io/Ed86/rjw.git"
+            "Url": "https://gitgud.io/Ed86/rjw"
         },{
             "Name": "Harmony",
-            "Url": "https://github.com/pardeike/HarmonyRimWorld.git"
+            "Url": "https://github.com/pardeike/HarmonyRimWorld"
         },{
             "Name": "RimworldHugsLib",
-            "Url": "https://github.com/UnlimitedHugs/RimworldHugsLib.git"
+            "Url": "https://github.com/UnlimitedHugs/RimworldHugsLib"
         }
     ],
     "Animation": [{
             "Name": "RJW Animation Framework",
-            "Url": "https://gitgud.io/c0ffeeeeeeee/rimworld-animations/-/tree/1.5.git"
+            "Url": "https://gitgud.io/c0ffeeeeeeee/rimworld-animations/-/tree/1.5"
         },{
             "Name": "RJWAnimAddons-SeXtra2",
-            "Url": "https://gitgud.io/Tory/rjwanimaddons-sextra2.git"
+            "Url": "https://gitgud.io/Tory/rjwanimaddons-sextra2"
         },{
             "Name": "Ultimate Animation Pack",
-            "Url": "https://gitgud.io/Teacher/ultimate-animation-pack.git"
+            "Url": "https://gitgud.io/Teacher/ultimate-animation-pack"
         },{
             "Name": "RJWAnimaddons_Hawkstuff (xray)",
-            "Url": "https://github.com/Hawkeye32/Hawk_Anims.git"
+            "Url": "https://github.com/Hawkeye32/Hawk_Anims"
         }
 
     ],
@@ -33,16 +33,16 @@
     "Sized Apparel": [
         {
             "Name": "Sized Apparel Zero",
-            "Url": "https://gitgud.io/ll.mirrors/sized-apparel-zero.git"
+            "Url": "https://gitgud.io/ll.mirrors/sized-apparel-zero"
         },{
             "Name": "Sized Apparel - Extended",
-            "Url": "https://gitgud.io/ll.mirrors/sized-apparel-extended.git"
+            "Url": "https://gitgud.io/ll.mirrors/sized-apparel-extended"
         },{
             "Name": "SAR - UnderWhere",
-            "Url": "https://gitgud.io/Akiya82/sar-underwhere.git"
+            "Url": "https://gitgud.io/Akiya82/sar-underwhere"
         },{
             "Name": "Chaerens Apparel",
-            "Url": "https://gitgud.io/ll.mirrors/chaerens-apparel.git"
+            "Url": "https://gitgud.io/ll.mirrors/chaerens-apparel"
         }
     ],
     "Royality DLC": [{
@@ -52,30 +52,30 @@
     ],
     "Ideology DLC": [{
             "Name": "S16s Extension",
-            "Url": "https://gitgud.io/IvanLepper/s16-extentions-1.5/-/tree/s16s-1.5.git"
+            "Url": "https://gitgud.io/IvanLepper/s16-extentions-1.5/-/tree/s16s-1.5"
         },{
             "Name": "Sexperience Ideology",
-            "Url": "https://gitgud.io/amevarashi/rjw-sexperience-ideology.git"
+            "Url": "https://gitgud.io/amevarashi/rjw-sexperience-ideology"
         },{
             "Name": "RimJobWorld Ideology Addon",
-            "Url": "https://gitgud.io/Tittydragon/rimjobworld-ideology-addon/-/tree/dev.git"
+            "Url": "https://gitgud.io/Tittydragon/rimjobworld-ideology-addon/-/tree/dev"
         },{
             "Name": "RJW Brothel Colony (CalamaBanana)",
-            "Url": "https://gitgud.io/CalamaBanana/rjw-brothel-colony/-/tree/dev2.git"
+            "Url": "https://gitgud.io/CalamaBanana/rjw-brothel-colony/-/tree/dev2"
         },{
             "Name": "RJW Events",
-            "Url": "https://gitgud.io/c0ffeeeeeeee/rjw-events.git"
+            "Url": "https://gitgud.io/c0ffeeeeeeee/rjw-events"
         },{
             "Name": "RJW - Whoring (Ed86)",
-            "Url": "https://gitgud.io/Ed86/rjw-whoring.git"
+            "Url": "https://gitgud.io/Ed86/rjw-whoring"
         }
     ],
     "Biotech DLC": [{
             "Name": "RJW Genes",
-            "Url": "https://github.com/vegapnk/RJW-Genes.git"
+            "Url": "https://github.com/vegapnk/RJW-Genes"
         },{
             "Name": "biotech-pregnancy-rjw-fix",
-            "Url": "https://gitgud.io/Akiya82/biotech-pregnancy-rjw-fix.git"
+            "Url": "https://gitgud.io/Akiya82/biotech-pregnancy-rjw-fix"
         }
     ],
     "Anomaly DLC": [{
@@ -85,56 +85,56 @@
     ],
     "Larger Mechanics": [{
             "Name": "Dyspareunia",
-            "Url": "https://gitlab.com/NuttySquabble/Dyspareunia/-/tree/master.git"
+            "Url": "https://gitlab.com/NuttySquabble/Dyspareunia/-/tree/master"
         },{
             "Name": "Licentia Labs",
-            "Url": "https://gitgud.io/Jaaldabaoth/licentia-labs.git"
+            "Url": "https://gitgud.io/Jaaldabaoth/licentia-labs"
         },{
             "Name": "RJW Menstruation",
-            "Url": "https://gitgud.io/lutepickle/rjw_menstruation/-/tree/dev.git"
+            "Url": "https://gitgud.io/lutepickle/rjw_menstruation/-/tree/dev"
         },{
             "Name": "RJW Mens resource",
-            "Url": "https://github.com/Jaaldabaoth/RJW_mens_resource.git"
+            "Url": "https://github.com/Jaaldabaoth/RJW_mens_resource"
         },{
             "Name": "Privacy-please",
-            "Url": "https://gitgud.io/FireSplitter/privacy-please.git"
+            "Url": "https://gitgud.io/FireSplitter/privacy-please"
         }
     ],
     "Cum and Milk": [{
             "Name": "RJW Sexperience",
-            "Url": "https://gitgud.io/amevarashi/rjw-sexperience.git"
+            "Url": "https://gitgud.io/amevarashi/rjw-sexperience"
         },{
             "Name": "RJW Milkable Colonists",
-            "Url": "https://gitgud.io/jikulopo/rjw/-/tree/1.5-test.git"
+            "Url": "https://gitgud.io/jikulopo/rjw/-/tree/1.5-test"
         },{
             "Name": "RJW - CUM (perfomance issue?)",
-            "Url": "https://gitgud.io/Ed86/rjw-cum.git"
+            "Url": "https://gitgud.io/Ed86/rjw-cum"
         }
     ],
     "Small Add-ons / Patches / Tweaks": [{
             "Name": "RJW - STD",
-            "Url": "https://gitgud.io/Ed86/rjw-std.git"
+            "Url": "https://gitgud.io/Ed86/rjw-std"
         },{
             "Name": "RJW - Fuck Beautiful",
-            "Url": "https://gitgud.io/Ed86/rjw-fb.git"
+            "Url": "https://gitgud.io/Ed86/rjw-fb"
         },{
             "Name": "RJW - Fuck Clarity",
-            "Url": "https://gitgud.io/Ed86/rjw-fc.git"
+            "Url": "https://gitgud.io/Ed86/rjw-fc"
         },{
             "Name": "RJW - Fuck Hole",
-            "Url": "https://gitgud.io/Ed86/rjw-fh.git"
+            "Url": "https://gitgud.io/Ed86/rjw-fh"
         },{
             "Name": "RJW - Interaction Addon",
-            "Url": "https://gitgud.io/Ed86/rjw-ia.git"
+            "Url": "https://gitgud.io/Ed86/rjw-ia"
         },{
             "Name": "RJW_Traits",
-            "Url": "https://github.com/ArcherSaiter/RJW_Traits.git"
+            "Url": "https://github.com/ArcherSaiter/RJW_Traits"
         },{
             "Name": "Rimworld Stripper Pole",
-            "Url": "https://gitgud.io/cryptidfarmer/rimworld-stripper-pole.git"
+            "Url": "https://gitgud.io/cryptidfarmer/rimworld-stripper-pole"
         },{
             "Name": "RomanceTweaks",
-            "Url": "https://github.com/bdew-rw/RomanceTweaks.git"
+            "Url": "https://github.com/bdew-rw/RomanceTweaks"
         }
     ]
 }
